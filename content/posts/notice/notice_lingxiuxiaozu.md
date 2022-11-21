@@ -7,7 +7,7 @@ hiddenFromHomePage: false
 draft: false
 authors: [蒋硕]
 tags: [通知]
-categories: [documentation]
+categories: [Lectures]
 series: [Conference]
 ---
 
