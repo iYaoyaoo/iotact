@@ -1,6 +1,6 @@
 ---
 title: "关于【灵修小组】的通知"
-subtitle: ""
+subtitle: "关于【灵修小组】的通知"
 date: 2022-11-15T09:02:36+08:00
 lastmod: 2022-11-16
 hiddenFromHomePage: false
